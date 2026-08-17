@@ -5,7 +5,7 @@
 
 ## Skills learned
 ### **Git&GitHub**
-- [ ] Markdow;
+- [ ] Markdow ;
 - [ ] Git vs GitHub;
 - [ ] Commands;
 
