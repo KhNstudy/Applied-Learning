@@ -1,7 +1,7 @@
 # **Markdown**
 
 ## **What is Markdown**
-    É uma linguagem de marcação leve criada em leve, que usa símbolos de formatação de teste simples, podendo ser:
-         Hashtag(#) para titulos de primerio até o ultimo nivel possivel; 
-        -  
-        -
+    It is a lightweight markup language created in 2004 that uses simple text formatting symbols, such as:
+
+-**Hashtag**- (#) for headings, from the first level to the highest possible level.
+        - 
