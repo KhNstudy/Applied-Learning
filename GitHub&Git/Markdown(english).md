@@ -8,7 +8,10 @@
     that can be used include:
     - VS Code;
     - Visual Studio Code;
-    - Notepad, Notepad++, Vim, and Antigravity.
+    - Notepad;
+    - Notepad++;
+    - Vim;
+    - and Antigravity.
 
 ## **Which Symbols and How to Use Them ✅**
 
