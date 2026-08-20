@@ -2,9 +2,9 @@
 
 ## **What is Markdown🤔**
     It is a lightweight markup language created in 2004 that
-     uses simple text formatting symbols.
+    uses simple text formatting symbols.
 
-##  **Which Symbols and How to Use Them ✅**
+## **Which Symbols and How to Use Them ✅**
 
 - ### **Hashtag** (#) Examples of Usaged: 
     - Usign the # symbol once or twice or more times on the left
