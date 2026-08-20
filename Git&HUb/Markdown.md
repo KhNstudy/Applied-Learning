@@ -7,12 +7,12 @@
 - ### **Hashtag** (#) Examples of Usaged: 
     - Usign the # symbol once or twice or more times on the left
     side of each word or phrase you want to turn into a heading 
-    and make the text a title ;
+    and make the text a title;
 
 - ### **Asterisk** (*) Examples of Usaged:
-    - Using the * symbol twice on each end makes the text bold ;
-    - Usign the * symbol once on each end make the text italic ;
+    - Using the * symbol twice on each end makes the text bold;
+    - Usign the * symbol once on each end make the text italic;
     - Usign the * symbol three times to create a horizontal divider in text;
 
 - ### **Tilde(~)**
-    - Using the ~ symbol twice on each end makes the text strikethrough. ;
+    - Using the ~ symbol twice on each end makes the text strikethrough;
