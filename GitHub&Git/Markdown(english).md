@@ -1,8 +1,14 @@
 # **Markdown**
 
 ## **What is Markdown🤔**
-    It is a lightweight markup language created in 2004 that
-    uses simple text formatting symbols.
+    It is a lightweight markup language created in 2004 that uses simple
+    text formatting symbols. The
+    file must be saved with the .md
+    extension. Code editors
+    that can be used include:
+    - VS Code;
+    - Visual Studio Code;
+    - Notepad, Notepad++, Vim, and Antigravity.
 
 ## **Which Symbols and How to Use Them ✅**
 
