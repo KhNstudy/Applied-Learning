@@ -14,7 +14,7 @@ It is a lightweight markup language created in 2004 that uses simple
 - and Antigravity.
 
 >[!NOTE]  
->In services such as WhatsApp, Telegram, and Outlook, although the syntax
+>In services such as: WhatsApp, Telegram, and Outlook, although the syntax
 >may vary depending on the application.
 
 ## **Which Symbols and How to Use Them ✅**
