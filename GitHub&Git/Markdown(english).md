@@ -20,7 +20,7 @@
     side of each word or phrase you want to turn into a heading 
     and make the text a title;
     <p></p>
-    <img src="./.src/img/Title.png" width="50%>
+    <img src="./.src/img/Title.png">
 
 - ### **Asterisk** (*) Examples of Usaged:
     - Using the * symbol twice on each end makes the text bold;
