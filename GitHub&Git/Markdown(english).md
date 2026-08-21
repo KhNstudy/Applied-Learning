@@ -1,7 +1,7 @@
 # **Markdown**
 
 ## **What is Markdown🤔**
-    It is a lightweight markup language created in 2004 that uses simple
+It is a lightweight markup language created in 2004 that uses simple
     text formatting symbols. The
     file must be saved with the .md
     extension. Code editors
