@@ -22,13 +22,13 @@ It is a lightweight markup language created in 2004 that uses simple
 ```ruby
     # TITLE 1
 ```
-```mermaid
+```
     ## TITLE 2
 ```
 ```ruby
     ### TITLE 3
 ```
-```mermaid
+```
     #### TITLE 4
 ```
 - ### **Asterisk** (*) Examples of Usaged:
