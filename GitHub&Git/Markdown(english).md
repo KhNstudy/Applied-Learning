@@ -18,7 +18,7 @@
 - ### **Hashtag** (#) Examples of Usaged: 
     - Usign the # symbol once or twice or more times on the left
     side of each word or phrase you want to turn into a heading 
-    and make the text a title;~
+    and make the text a title;
         ``` #Test Text or ##Test Test```
 
 - ### **Asterisk** (*) Examples of Usaged:
