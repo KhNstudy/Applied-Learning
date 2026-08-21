@@ -25,6 +25,6 @@
     - Usign the * symbol once on each end make the text italic;
     - Usign the * symbol three times to create a horizontal divider in text;
 
-- ### **Tilde(~~~k~~)** Examples of Usaged:
+- ### **Tilde(~~k~~)** Examples of Usaged:
     - Using the ~ symbol twice on each end makes the text strikethrough;
 
