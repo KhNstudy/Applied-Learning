@@ -6,12 +6,12 @@ It is a lightweight markup language created in 2004 that uses simple
     file must be saved with the .md
     extension. Code editors
     that can be used include:
-    - VS Code;
-    - Visual Studio Code;
-    - Notepad;
-    - Notepad++;
-    - Vim;
-    - and Antigravity.
+- VS Code;
+- Visual Studio Code;
+- Notepad;
+- Notepad++;
+- Vim;
+- and Antigravity.
 
 >[!NOTE]  
 >In services such as WhatsApp, Telegram, and Outlook, although the syntax
