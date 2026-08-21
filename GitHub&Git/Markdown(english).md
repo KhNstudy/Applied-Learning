@@ -21,11 +21,16 @@ It is a lightweight markup language created in 2004 that uses simple
     and make the text a title;
 ```ruby
     # TITLE 1
+```
+```ruby
     ## TITLE 2
+```
+```ruby
     ### TITLE 3
+```
+```ruby
     #### TITLE 4
 ```
-
 - ### **Asterisk** (*) Examples of Usaged:
     - Using the * symbol twice on each end makes the text bold;
         ``` **Test Text** ```
