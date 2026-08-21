@@ -19,7 +19,7 @@
     - Usign the # symbol once or twice or more times on the left
     side of each word or phrase you want to turn into a heading 
     and make the text a title;
-        ``` #Test Text or ##Test Test```
+        ![Title](./src/img/Title.png)
 
 - ### **Asterisk** (*) Examples of Usaged:
     - Using the * symbol twice on each end makes the text bold;
