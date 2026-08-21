@@ -19,13 +19,13 @@ It is a lightweight markup language created in 2004 that uses simple
     - Usign the # symbol once or twice or more times on the left
     side of each word or phrase you want to turn into a heading 
     and make the text a title;
-    ```ruby
+    ```
     # TITLE 1
     ```
     ```
     ## TITLE 2
     ```
-    ```ruby
+    ```
     ### TITLE 3
     ```
     ```
@@ -33,7 +33,7 @@ It is a lightweight markup language created in 2004 that uses simple
     ```
 - ### **Asterisk** (*) Examples of Usaged:
     - Using the * symbol twice on each end makes the text bold;
-    ```ruby
+    ```
     **Test Text** 
     ```
     - Usign the * symbol once on each end make the text italic;
@@ -41,7 +41,7 @@ It is a lightweight markup language created in 2004 that uses simple
     *Test Text*
     ```
     - Usign the * symbol three times to create a horizontal divider in text;
-    ```ruby
+    ```
     ***
     ```
 
