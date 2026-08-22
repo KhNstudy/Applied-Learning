@@ -55,3 +55,5 @@ It is a lightweight markup language created in 2004 that uses simple
     ```
     ~~Test Text~~
     ```
+
+- ### **Tilde(~)** Examples of Usaged:
